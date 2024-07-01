@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>ReadMe - Captain Jack Sparrow Bot</title>
+    <title>ReadMe - Captain Jack Spaddrrow Bot</title>
 </head>
 <body>
     <h1>Project: Captain Jack Sparrow Bot</h1>
