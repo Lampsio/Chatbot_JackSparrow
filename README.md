@@ -1,25 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>ReadMe - Captain Jack Spaddrrow Bot</title>
-</head>
-<body>
-    <h1>Project: Captain Jack Sparrow Bot</h1>
-    
-    <h2>Description</h2>
-    <p>This is a project of a bot with which you can chat through a GUI created in Vue.js. The bot has the knowledge and speech of Captain Jack Sparrow. It also has a chat history feature, so it remembers details like your name.</p>
-    
-    <h2>Technologies</h2>
-    <ul>
-        <li>Vue.js</li>
-        <li>Python</li>
-        <li>FastAPI</li>
-        <li>Langchain</li>
-        <li>HuggingFace</li>
-    </ul>
-    
-    <h2>Image</h2>
-    <p>![Captain Jack Sparrow](https://example.com/jack_sparrow_image.jpg)</p>
-</body>
-</html>
+# Captain Jack Sparrow Chatbot Project
+
+## Overview
+This project is a chatbot that you can interact with through a GUI created with Vue.js. 
+The bot possesses the knowledge and speech patterns of Captain Jack Sparrow and maintains a chat history, allowing it to remember your name and other details from your conversations.
+
+## Features
+- **Interactive Chat**: Engage in conversations with a chatbot that emulates Captain Jack Sparrow.
+- **Chat History:** The bot retains the chat history, enabling it to remember user details like your name.
+- **Realistic Responses:** Utilizes advanced language models to provide lifelike and contextually relevant responses.
+- 
+## Technologies Used
+- **Vue.js:** A JavaScript framework for building user interfaces.
+- **Python:** A programming language that powers the backend logic.
+- **FastAPI:** A modern, fast (high-performance) web framework for building APIs with Python.
+- **Langchain:** A framework to manage and customize the interactions with language models.
+- **HuggingFace:** A platform providing state-of-the-art natural language processing models.
+  
+### Image
+
+<img src="Obraz1.PNG" alt="JavaPaint Screenshot">
