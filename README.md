@@ -18,4 +18,4 @@ The bot possesses the knowledge and speech patterns of Captain Jack Sparrow and 
   
 ### Image
 
-<img src="Obraz1.PNG" alt="JavaPaint Screenshot">
+<img src="Obraz.PNG" alt="JavaPaint Screenshot">
